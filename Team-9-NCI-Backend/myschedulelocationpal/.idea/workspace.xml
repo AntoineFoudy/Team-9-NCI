@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="024550b1-4aaf-4b31-a488-0351b11e4603" name="Changes" comment="Removed these">
+      <change beforePath="$PROJECT_DIR$/src/main/java/nciteam9/myschedulelocationpal/service/NextEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nciteam9/myschedulelocationpal/service/NextEvent.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AntoineFoudy&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AntoineFoudy/Team-9-NCI-Backend.git&quot;,
+    &quot;accountId&quot;: &quot;1c290eae-7212-4b30-86e9-57d85be0fc55&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/nciteam9/myschedulelocationpal/controllers/ScheduleControllers.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3A2QivjDgVkuipuflrmlfbsreLJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.MyschedulelocationpalApplication.executor": "Run",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "Development",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="MyschedulelocationpalApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="myschedulelocationpal" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="nciteam9.myschedulelocationpal.MyschedulelocationpalApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="024550b1-4aaf-4b31-a488-0351b11e4603" name="Changes" comment="" />
+      <created>1771788317345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771788317345</updated>
+      <workItem from="1771788318532" duration="6953000" />
+      <workItem from="1771851091849" duration="93000" />
+      <workItem from="1771855831249" duration="28000" />
+      <workItem from="1771863225514" duration="6552000" />
+      <workItem from="1772123034606" duration="6769000" />
+      <workItem from="1772198690523" duration="6505000" />
+      <workItem from="1772472663855" duration="5092000" />
+      <workItem from="1772539536042" duration="3884000" />
+      <workItem from="1772547893729" duration="653000" />
+      <workItem from="1772637232949" duration="3261000" />
+      <workItem from="1772716589956" duration="1925000" />
+      <workItem from="1772725446573" duration="5422000" />
+      <workItem from="1772790228057" duration="910000" />
+      <workItem from="1772806984615" duration="10793000" />
+      <workItem from="1772993553397" duration="1798000" />
+      <workItem from="1773057629107" duration="489000" />
+      <workItem from="1773255375441" duration="4447000" />
+    </task>
+    <task id="LOCAL-00001" summary="- Connected database with JPA&#10;- Added Controller for login with the parameters for email and password; returning a boolean value based off of result">
+      <option name="closed" value="true" />
+      <created>1771866278718</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1771866278718</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Had to change Java 25 to 21 for E2C instance">
+      <option name="closed" value="true" />
+      <created>1771870943304</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1771870943304</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updated the login entity to also request the User's info&#10;Change the Login Repository to save an object variable instead of a boolean, also change the JPA method to return values instead of a boolean">
+      <option name="closed" value="true" />
+      <created>1772127503275</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1772127503275</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Updated the login entity to also request the User's info&#10;Change the Login Repository to save an object variable instead of a boolean, also change the JPA method to return values instead of a boolean">
+      <option name="closed" value="true" />
+      <created>1772127640673</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1772127640673</updated>
+    </task>
+    <task id="LOCAL-00005" summary="POST request to store new Schedule implements">
+      <option name="closed" value="true" />
+      <created>1772543224990</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1772543224990</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Get request to retrieve all the scheduled events for a specific user">
+      <option name="closed" value="true" />
+      <created>1772647287650</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1772647287650</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Email Sender - first prototype the email notification. SendEmail class fully working. Still need to add a timer and to get the user's data">
+      <option name="closed" value="true" />
+      <created>1772731227195</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1772731227195</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added to allow the browser to send the responses to the frontend js">
+      <option name="closed" value="true" />
+      <created>1772790561380</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1772790561380</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Email notifications: It currently checks each user's schedule every 10 minutes and sees if any of them are ongoing within the next 20 minutes, if so it sends an email about the event to the user.">
+      <option name="closed" value="true" />
+      <created>1772826608870</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1772826608870</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Removed these">
+      <option name="closed" value="true" />
+      <created>1772826696432</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1772826696432</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="- Connected database with JPA&#10;- Added Controller for login with the parameters for email and password; returning a boolean value based off of result" />
+    <MESSAGE value="Had to change Java 25 to 21 for E2C instance" />
+    <MESSAGE value="Updated the login entity to also request the User's info&#10;Change the Login Repository to save an object variable instead of a boolean, also change the JPA method to return values instead of a boolean" />
+    <MESSAGE value="POST request to store new Schedule implements" />
+    <MESSAGE value="Get request to retrieve all the scheduled events for a specific user" />
+    <MESSAGE value="Email Sender - first prototype the email notification. SendEmail class fully working. Still need to add a timer and to get the user's data" />
+    <MESSAGE value="Added to allow the browser to send the responses to the frontend js" />
+    <MESSAGE value="Email notifications: It currently checks each user's schedule every 10 minutes and sees if any of them are ongoing within the next 20 minutes, if so it sends an email about the event to the user." />
+    <MESSAGE value="Removed these" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed these" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
